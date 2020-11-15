@@ -214,6 +214,11 @@ video {
   padding-top: 3rem;
 }
 
+.footer-copyright {
+  display: flex;
+  justify-content: center;
+}
+
 .footer-social a {
   color: black;
   padding: 0 1rem;
